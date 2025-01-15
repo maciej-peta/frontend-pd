@@ -46,6 +46,7 @@ while(true){
   throw new Exception("AAAAAAAAA");
 }
 ```
+koniec tekstu a tutaj `System.out.println("ZAGNIEZDZONY KOD!!!!!!");` super swietne
 
 ### Zdjecie
 ![opis](cat.jpg)
